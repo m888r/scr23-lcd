@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid bc56af4d-b2e1-470f-ad7e-887c66af6cfe)
+
+  (paper "C")
+
+  (title_block
+    (title "SCR23 LCD")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
